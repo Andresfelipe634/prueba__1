@@ -121,7 +121,7 @@ Los formularios, indicadores y tablas contienen datos ficticios. No existe auten
 - `servicios/mis-servicios.html` — Mis servicios
 - `servicios/historial-servicios.html` — Historial de servicios
 
-### Comercial (10)
+### Comercial (10)        
 
 - `comercial/compras-ganado.html` — Compras de ganado
 - `comercial/ventas-ganado.html` — Ventas de ganado
